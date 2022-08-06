@@ -1,6 +1,6 @@
-from stock import Stock
 from dow30 import dow30
 from nasdaq100 import nasdaq100
+from stock import Stock
 from ticker_scraper import scrape
 
 # Assign ticker or list of tickers
